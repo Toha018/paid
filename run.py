@@ -1,0 +1,2 @@
+import oll
+oll.Main()
